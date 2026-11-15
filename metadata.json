@@ -1,0 +1,6 @@
+{
+  "name": "EXOBASE",
+  "description": "AI-powered planetary analog discovery and mission site planner comparing Earth, Moon, and Mars satellite datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
